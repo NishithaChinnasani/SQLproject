@@ -1,10 +1,10 @@
-Railway System Database Schema:
+**Railway System Database Schema:**
 This repository contains the SQL scripts to create a relational database schema for a railway system. The schema includes tables for managing users, passengers, train types, stations, train details, journeys, and train routes.
 
-Overview:
+**Overview:**
 The database schema is designed to manage various aspects of a railway system, including user authentication, train schedules, station information, and journey details.
 
-Database Schema:
+**Database Schema:**
 The schema consists of the following tables:
 - user_login:Stores user login details, including user ID, password, name, and email.
 - passenger:Stores information about passengers, including personal details and contact information.
